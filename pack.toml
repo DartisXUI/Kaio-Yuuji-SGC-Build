@@ -1,0 +1,13 @@
+name = "Kaio-Yuuji - SGC Build"
+author = "Dartis-Craft x Kaio-Yuuji"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "453b8f71f4316ef7be95e2948bd665c06f7c158758cbeab2216e50f7965f9774"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
