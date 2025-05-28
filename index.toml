@@ -3193,6 +3193,11 @@ hash = "e563c31c740ef17483ccda6d3d2b0d64b46666fd91434ca498cb54bc1f9c14ce"
 metafile = true
 
 [[files]]
+file = "mods/blockcraftery.pw.toml"
+hash = "e2f14e48f0d4b8de42d67ba71c65c2b50e0e5ee9c823f825087c9bd5da11d5b4"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
 metafile = true
@@ -3460,6 +3465,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "a4c498bcfebfd15bb9fe3634cec04eab7da19f93080b295de00221f3ca986cd7"
+metafile = true
+
+[[files]]
+file = "mods/mysticallib.pw.toml"
+hash = "815710af54eb77994c123853e9e665bfc5b4ee325e870c54259a7f9a59fcf21a"
 metafile = true
 
 [[files]]
