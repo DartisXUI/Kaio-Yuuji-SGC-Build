@@ -1605,6 +1605,10 @@ file = "config/eplus.cfg"
 hash = "44ab161b172206cb25beb3d03859c52079f8c4b2919379fad3e2d2c6de2795d1"
 
 [[files]]
+file = "config/etheraltpackutils.cfg"
+hash = "3e9c375e8948a14ee82a3ce2e3a708dab6eea1d091868eba61d5ab8744daa76d"
+
+[[files]]
 file = "config/extrautils2.cfg"
 hash = "e9bcc0c3f59f024d811d9fb7e78d95b4e5a2c1853e898d19611e8d22d6bd482c"
 
@@ -2157,6 +2161,10 @@ file = "config/multipart.cfg"
 hash = "09e84839cd81ded44c4a89136ad4c53ad9b276a3e3540e1b4040539ec040e0d7"
 
 [[files]]
+file = "config/natura.cfg"
+hash = "208dd0e72fc9edbacb18a82d5baba1e21c474d7b8f8a1de6090bd0b3cf2d5776"
+
+[[files]]
 file = "config/notenoughwands.cfg"
 hash = "3b1d97c982f457f6b030621e09c8925ad199b5e188ba1e120c8e2dd18dea6a37"
 
@@ -2307,6 +2315,10 @@ hash = "6a9ea613d306bce73d47491db359ae1280a6ff9eff8a3b635575db2715a81679"
 [[files]]
 file = "config/rangedpumps.cfg"
 hash = "1325ab50e5883cb91cd0c32b640975d23b01dffdba7e77c327b16597b10aedc4"
+
+[[files]]
+file = "config/reccomplex.cfg"
+hash = "b3c4bd6ef4af1b55d87f3d9ca33b0eb7e9043605cb2069706b22963e3c33d487"
 
 [[files]]
 file = "config/recipehandler.cfg"
@@ -2891,6 +2903,10 @@ hash = "1a44baa609f48a178a7fd54442dad8f4529211fee00edd63000b436f52c51635"
 [[files]]
 file = "config/simpledimensions.cfg"
 hash = "b5ed4a127e116e0d5d6f40a42ee388f7ecb0cc3503196c5aaf96adac561eefb2"
+
+[[files]]
+file = "config/simplerpg.cfg"
+hash = "fa0579c6c5ec796bccbb65a2e142c7468023bffdc913720d06219a977b71dc37"
 
 [[files]]
 file = "config/splash.properties"
